@@ -1,0 +1,9 @@
+# temporary files
+*.o
+
+# executable file
+gradient
+
+# tags files
+tags
+TAGS
