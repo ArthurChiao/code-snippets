@@ -19,3 +19,7 @@ from [zeromq official guide](http://zguide.zeromq.org/py:mtserver)
 ### Asynchronous Clients/Servers
 
 <img src="images/fig.38.asynch_server.png" alt="Asynch Server">
+
+## Cluster Broker
+
+<img src="images/fig.44.cluster_broker.png" alt="Cluster Broker">
