@@ -11,13 +11,13 @@ Greate Python Reads
 
   * where to find `func` when calling `a.func()`?
 
-    The dict of object `a` (A.`__dict__`)? Dict of `class A`? Dict of
+    The dict of object `a` (`A.__dict__`)? Dict of `class A`? Dict of
     `class A`'s parent class? or else where?
 
   * if there are multiple `func`s in one dict, which one has the highest
   precedence?
 
-  * what are the following built-in methods are used for?
+  * what are the following built-in methods used for?
 
     `__get__`, `__set__`, `__delete__`
 

@@ -23,8 +23,8 @@ if __name__ == '__main__':
     for line in iter(p.stdout.readline, b''):
         tokens = line.decode('utf-8').strip().split()
         if proc_name in tokens:
-            print("process found: %s" % proc_id)
             proc_id = tokens[0]
+            print("process found: %s" % proc_id)
 
             print("kill process [%s: %s] ..." % (proc_id, proc_name))
             ret_code = subprocess.call(["kill", "-9", proc_id])
