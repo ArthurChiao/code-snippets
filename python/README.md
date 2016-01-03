@@ -10,3 +10,11 @@ Python Resources
 1. [**great python reads**](great_python_reads.md)
 
   greate articles/blogs/tutorials on python
+
+
+---------------------
+# Projects
+
+1. [progress-bar](https://github.com/niltonvolpato/python-progressbar)
+
+  simple, powerful progress-bar library
