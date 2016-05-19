@@ -11,6 +11,9 @@ Python Resources
 
   greate articles/blogs/tutorials on python
 
+1. [Ideomatic Python Code](ideomatic.md)
+
+  Some ideomatic python code, fantastic!
 
 ---------------------
 # Projects
